@@ -1,1 +1,2 @@
-# minecuta.github.io
+# Mine Cuta Website
+Website for Mine Cuta
